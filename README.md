@@ -12,7 +12,7 @@
 
 **Career Goal:** To become a skilled Cybersecurity Professional
 
-**Favourite Technology:** Python
+**Favourite Technology:** C
 
 ## 🌟 Interesting Fact About Me
 
@@ -23,11 +23,12 @@ I enjoy learning new technologies and exploring how computers and cybersecurity 
 This repository contains my learning activities, assignments, certificates, screenshots, and projects completed during Semester Zero.
 
 ## 🛠️ Skills & Technologies
-
+- PYTHON
 - C
 - HTML
 - Git & GitHub
 - Scratch
+- TINKERCAD
 
 ## 🎯 My Goal
 
