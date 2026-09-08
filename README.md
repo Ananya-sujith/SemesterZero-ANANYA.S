@@ -30,6 +30,9 @@ This repository contains my learning activities, assignments, certificates, scre
 - Scratch
 - TINKERCAD
 
+  ## Achievement
+  I successfully completed my first GitHub respository.
+
 ## 🎯 My Goal
 
 To continuously improve my programming and cybersecurity skills and build real-world projects.
